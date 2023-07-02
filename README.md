@@ -1,0 +1,1 @@
+# django-core-rest-template
